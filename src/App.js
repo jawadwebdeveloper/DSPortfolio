@@ -1,3 +1,4 @@
+import { Home } from '@mui/icons-material';
 import './App.css';
 import Preloader from './components/Preloader/Preloader';
 
@@ -25,8 +26,9 @@ function App() {
     {/* <p class="example">Resize the browser window to see how the background color of this paragraph changes on different screen sizes.</p> */}
         
       
-      {/* <Preloader/> */}
+      <Preloader/>
       <Routeing/>
+      <Home/>
       <About/>
       <Projects/>
       <Skills/>
