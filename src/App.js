@@ -1,4 +1,4 @@
-import { Home } from '@mui/icons-material';
+
 import './App.css';
 import Preloader from './components/Preloader/Preloader';
 
@@ -7,6 +7,7 @@ import About from './pages/About/About';
 import Contact from './pages/Contact/Contact';
 import Projects from './pages/Projects/Projects';
 import Skills from './pages/Skills/Skills';
+import HOme from './pages/Home/Home';
 
 function App() {
   
@@ -28,7 +29,7 @@ function App() {
       
       <Preloader/>
       <Routeing/>
-      <Home/>
+      <HOme/>
       <About/>
       <Projects/>
       <Skills/>
