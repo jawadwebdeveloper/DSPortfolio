@@ -29,7 +29,7 @@ function App() {
       
       <Preloader/>
       <Routeing/>
-      {/* <HOme/> */}
+      <HOme/>
       <About/>
       <Projects/>
       <Skills/>
