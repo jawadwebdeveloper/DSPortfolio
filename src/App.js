@@ -30,10 +30,10 @@ function App() {
       <Preloader/>
       <Routeing/>
       {/* <HOme/> */}
-      {/* <About/>
+      <About/>
       <Projects/>
       <Skills/>
-      <Contact/> */}
+      <Contact/>
      
     </>
   );
