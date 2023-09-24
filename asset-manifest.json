@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DSPortfolio/static/css/main.e71fab6f.css",
-    "main.js": "/DSPortfolio/static/js/main.09f871b7.js",
+    "main.js": "/DSPortfolio/static/js/main.39a35f87.js",
     "static/js/787.c4e7f8f9.chunk.js": "/DSPortfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/p2.png": "/DSPortfolio/static/media/p2.9119310bcd6771530578.png",
     "static/media/p4.png": "/DSPortfolio/static/media/p4.c78c61f03855cb3684cd.png",
@@ -11,6 +11,7 @@
     "static/media/python3.jpeg": "/DSPortfolio/static/media/python3.43c2bd63af770efd4806.jpeg",
     "static/media/python2.jpeg": "/DSPortfolio/static/media/python2.f856137361626be73b03.jpeg",
     "static/media/pythonone.png": "/DSPortfolio/static/media/pythonone.3e9da7525f3080f48522.png",
+    "static/media/Dpic3.jpg": "/DSPortfolio/static/media/Dpic3.c578be89695baf064090.jpg",
     "static/media/cvpic.png": "/DSPortfolio/static/media/cvpic.81eeaeef87f924339c1e.png",
     "static/media/iqra_azhar_Resume.pdf": "/DSPortfolio/static/media/iqra_azhar_Resume.dbffc4cd581a1e29d0ab.pdf",
     "static/media/apachespark.png": "/DSPortfolio/static/media/apachespark.0be83b8d1b9add6baafa.png",
@@ -20,6 +21,7 @@
     "static/media/css1.jpeg": "/DSPortfolio/static/media/css1.32f190b8e29940c0830e.jpeg",
     "static/media/react1.png": "/DSPortfolio/static/media/react1.0ecc1ddd01f5d641f7a3.png",
     "static/media/powerbi.png": "/DSPortfolio/static/media/powerbi.0251f3673b9ff138eca3.png",
+    "static/media/Dpic1.jpg": "/DSPortfolio/static/media/Dpic1.fb4bc7f5a296451e8a90.jpg",
     "static/media/html1.png": "/DSPortfolio/static/media/html1.9d25fffa5162e482e739.png",
     "static/media/html2.jpeg": "/DSPortfolio/static/media/html2.e4d60ca3a82b478a1647.jpeg",
     "static/media/exal.png": "/DSPortfolio/static/media/exal.34b7f3f55b43a749d434.png",
@@ -27,15 +29,13 @@
     "static/media/css2.jpeg": "/DSPortfolio/static/media/css2.4620d24d56fedbdf2acf.jpeg",
     "static/media/python.png": "/DSPortfolio/static/media/python.448fb2a83595fa5c5c8a.png",
     "static/media/hadoop.png": "/DSPortfolio/static/media/hadoop.43496996ca3759eff212.png",
-    "static/media/htm3.jpeg": "/DSPortfolio/static/media/htm3.d8bca390a81c7bdd9d35.jpeg",
-    "static/media/css4.jpeg": "/DSPortfolio/static/media/css4.8397895e93f39aa8e71d.jpeg",
     "index.html": "/DSPortfolio/index.html",
     "main.e71fab6f.css.map": "/DSPortfolio/static/css/main.e71fab6f.css.map",
-    "main.09f871b7.js.map": "/DSPortfolio/static/js/main.09f871b7.js.map",
+    "main.39a35f87.js.map": "/DSPortfolio/static/js/main.39a35f87.js.map",
     "787.c4e7f8f9.chunk.js.map": "/DSPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e71fab6f.css",
-    "static/js/main.09f871b7.js"
+    "static/js/main.39a35f87.js"
   ]
 }
